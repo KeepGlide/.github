@@ -1,3 +1,5 @@
+<img src="keepglide-icon.png" alt="KeepGlide" width="96" align="left" />
+
 # KeepGlide
 
 **Complex made frictionless.** We build desktop apps and software solutions, and offer technology consulting.
