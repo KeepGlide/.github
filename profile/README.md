@@ -1,16 +1,29 @@
-<img src="keepglide-icon.png" alt="KeepGlide" width="96" align="left" />
+<div align="center">
+
+<img src="keepglide-cover-1600x400.png" alt="KeepGlide: Desktop apps, software and consulting." width="100%" />
 
 # KeepGlide
 
-**Complex made frictionless.** We build desktop apps and software solutions, and offer technology consulting.
+[![🇺🇸 English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-blue.svg)](README.md) [![🇧🇷 Português (Brasil)](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%AAs%20(Brasil)-green.svg)](README.pt-BR.md)
 
-## Products
+We build desktop apps and software solutions, and offer technology consulting. **Complex made easy.**
 
-- **KeepGlide**, the desktop app for Windows, macOS and Linux. Notes, PDFs and files in one place. [Coming soon](https://keepglide.com/get).
-- **Askaway**, a Claude Code mod that turns the questions your sessions ask into one clear inbox. Coming soon at `KeepGlide/askaway`.
+[Products](#-products) · [Consulting](#-consulting) · [Contact](mailto:hello@keepglide.com) · [keepglide.com](https://keepglide.com)
 
-## Consulting
+</div>
+
+## 🧩 Products
+
+| Product | What it is | Status | Link |
+|---|---|---|---|
+| KeepGlide app | The desktop app for Windows, macOS and Linux. Notes, PDFs and files in one place. | Coming soon | [keepglide.com/get](https://keepglide.com/get) |
+| Askaway | A Claude Code mod that turns the questions your sessions ask into one clear inbox. | Public beta (`0.4.0-beta.36`) | [KeepGlide/askaway](https://github.com/KeepGlide/askaway) |
+| master-jev-hook | Hooks and MCP that make Claude Code, Claude Desktop and Codex delegate decisions to TypeSafe JEV through a local gateway. | Early access beta (`1.3.0-beta.2`) | [KeepGlide/master-jev-hook](https://github.com/KeepGlide/master-jev-hook) |
+| KeepTrack | A Claude Code Desktop pane and band that track the GitHub repo of your session: sessions, issues, milestones and whether work is running. | Coming soon | — |
+| Claude plugins | KeepGlide's Claude Code plugin marketplace: one catalog for every KeepGlide plugin. | Public | [KeepGlide/claude-plugins](https://github.com/KeepGlide/claude-plugins) |
+
+Private products are named without a link.
+
+## 💼 Consulting
 
 Custom software, AI automation and technical advisory. Reach us at [hello@keepglide.com](mailto:hello@keepglide.com).
-
-[keepglide.com](https://keepglide.com)
